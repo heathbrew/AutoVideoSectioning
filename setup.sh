@@ -30,6 +30,9 @@ pip install torch
 pip install --upgrade llama-index-core
 pip install langchain-community
 
+pip install SpeechRecognition
+pip install translators
+pip install googletrans==4.0.0-rc1
 
 
 # Freeze the installed packages into a requirements file
